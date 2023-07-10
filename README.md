@@ -22,7 +22,7 @@ Es una herramienta útil para empresas o servicios de entrega que desean automat
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/api-bego.git`
+1. Clona el repositorio: `git clone https://github.com/Ezarate26/api-bego.git`
 2. Ingresa al directorio del proyecto: `cd api-bego`
 3. Instala las dependencias: `npm install`
 
